@@ -1,4 +1,4 @@
-newName = input("[+] enter the new name : ")
+newName = input("[+] Bảo Trí : Bảo Trí ")
 newName = '"'+newName+'"'
 file  = open('/data/data/com.termux/files/home/.zshrc','r')
 allLines = []
